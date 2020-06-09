@@ -6,3 +6,4 @@ dependencies:
   - r-gapminder
   - nano
   - numpy
+  - matplotlib
